@@ -10,4 +10,4 @@ A simple Django REST API that predicts air quality index (AQI) based on input en
 
 
 ![ ](img/2.png)
-![ ](img/2.png)
+![ ](img/1.png)
